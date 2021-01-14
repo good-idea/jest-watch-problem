@@ -1,0 +1,43 @@
+$spacing-units: 0rem, 0.1rem, 0.2rem, 0.25rem, 0.375rem, 0.5rem, 0.625rem,
+  0.75rem, 1rem, 1.25rem, 1.5rem, 1.75rem, 1.875rem, 2rem, 2.25rem, 2.5rem, 3rem,
+  3.125rem, 3.25rem, 4rem, 4.375rem, 5rem, 6rem, 7rem, 8rem;
+
+$aspect-ratios: (
+  'square': (
+    1,
+    1
+  ),
+  'landscape': (
+    16,
+    9
+  ),
+  'portrait': (
+    3,
+    2
+  )
+);
+
+$breakpoints: (
+  'xs': 576px,
+  'sm': 640px,
+  'sm-md': 720px,
+  'md': 768px,
+  'lg-md': 900px,
+  'lg': 1080px,
+  'xl': 1280px,
+  'xl-wide': 1440px,
+  'xxl': 1600px,
+  'xxxl': 1920px
+);
+
+$additional-class-definitions: (
+  'debug': (
+    border: 1px solid purple
+  ),
+  'text-decoration-none': (
+    text-decoration: none
+  ),
+  'flex-grow': (
+    flex: 1 1 100%
+  )
+);

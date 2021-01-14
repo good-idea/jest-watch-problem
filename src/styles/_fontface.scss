@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-black.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-black-italic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-extra-bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-extra-bold-italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-bold.otf') format('opentype'),
+    url('/assets/fonts/bradfordll-bold.woff2') format('woff2'),
+    url('/assets/fonts/bradfordll-bold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-bold-italic.otf') format('opentype'),
+    url('/assets/fonts/bradfordll-bold-italic.woff2') format('woff2'),
+    url('/assets/fonts/bradfordll-bold-italic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-medium-italic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-book.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-book-italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-regular.otf') format('opentype'),
+    url('/assets/fonts/bradfordll-regular.woff2') format('woff2'),
+    url('/assets/fonts/bradfordll-regular.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-italic.otf') format('opentype'),
+    url('/assets/fonts/bradfordll-italic.woff2') format('woff2'),
+    url('/assets/fonts/bradfordll-italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-light.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BradfordLL';
+  src: url('/assets/fonts/bradfordll-light-italic.otf') format('opentype');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graebenbach';
+  src: url('/assets/fonts/graebenbach-bold.eot');
+  src: url('/assets/fonts/graebenbach-bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/graebenbach-bold.woff') format('woff'),
+    url('/assets/fonts/graebenbach-bold.ttf') format('truetype'),
+    url('/assets/fonts/graebenbach-bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graebenbach';
+  src: url('/assets/fonts/graebenbach-bold-italic.eot');
+  src: url('/assets/fonts/graebenbach-bold-italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/graebenbach-bold-italic.woff') format('woff'),
+    url('/assets/fonts/graebenbach-bold-italic.ttf') format('truetype'),
+    url('/assets/fonts/graebenbach-bold-italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graebenbach';
+  src: url('/assets/fonts/graebenbach-regular.eot');
+  src: url('/assets/fonts/graebenbach-regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/graebenbach-regular.woff') format('woff'),
+    url('/assets/fonts/graebenbach-regular.ttf') format('truetype'),
+    url('/assets/fonts/graebenbach-regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Graebenbach';
+  src: url('/assets/fonts/graebenbach-regular-italic.eot');
+  src: url('/assets/fonts/graebenbach-regular-italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/graebenbach-regular-italic.woff') format('woff'),
+    url('/assets/fonts/graebenbach-regular-italic.ttf') format('truetype'),
+    url('/assets/fonts/graebenbach-regular-italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-black.eot');
+  src: url('/assets/fonts/itc-cushing-black.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-black.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-black.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-black.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-black-italic.eot');
+  src: url('/assets/fonts/itc-cushing-black-italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-black-italic.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-black-italic.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-black-italic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-bold.eot');
+  src: url('/assets/fonts/itc-cushing-bold.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-bold.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-bold.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-bold-italic.eot');
+  src: url('/assets/fonts/itc-cushing-bold-italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-bold-italic.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-bold-italic.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-bold-italic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-regular.eot');
+  src: url('/assets/fonts/itc-cushing-regular.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-regular.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-regular.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-regular.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ItcCushing';
+  src: url('/assets/fonts/itc-cushing-regular-italic.eot');
+  src: url('/assets/fonts/itc-cushing-regular-italic.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/itc-cushing-regular-italic.woff2') format('woff2'),
+    url('/assets/fonts/itc-cushing-regular-italic.woff') format('woff'),
+    url('/assets/fonts/itc-cushing-regular-italic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
